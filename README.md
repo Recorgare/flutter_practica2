@@ -1,4 +1,5 @@
-# practica2
+# practica 2
+Rey Ivan Cortez García ISC 91
 
 A new Flutter project.
 
